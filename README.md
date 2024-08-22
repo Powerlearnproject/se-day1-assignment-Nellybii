@@ -8,6 +8,7 @@ Explain what software engineering is and discuss its importance in the technolog
 - It is a branch of computer science that design, develop, test, and maintain high-quality software systems by applying engineering principles, methods, and tools 
 - Software engineering is essential in the technology industry because it enables the creation of software applications and systems that power key areas of modern life, such 
   as communication, commerce, entertainment, and healthcare.
+  
 Identify and describe at least three key milestones in the evolution of software engineering.
  - Waterfall: It is a linear and sequential approach where each phase must be completed before the next one begins. It includes requirements analysis, system design, implementation, integration, testing, deployment, and maintenance.
  - Agile: It is a project management methodology that prioritizes iterative and adaptable software development, customer involvement, and team collaboration.
